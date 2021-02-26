@@ -1,2 +1,2 @@
 # Password-Generator
-A websire that generates random passwords
+A website that generates random passwords
