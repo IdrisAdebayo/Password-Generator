@@ -14,3 +14,14 @@
 #slider{
     width: 100%;
 }
+
+button{
+    color: yellow;
+    background-color: red;
+    font-weight: 200;
+}
+
+.container{
+    width: 90%;
+    
+}
