@@ -13,7 +13,7 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Usage 
 Image of finished project
-![image of deployed app](./assets/images/portfolio.jpg)
+![image of deployed app](./assets/passwordgenerator.jpg)
 
 ## deployed link: https://idrisadebayo.github.io/Password-Generator/
 
